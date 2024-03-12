@@ -598,7 +598,7 @@ form button a:hover {
     font-size: 20px;
 } 
 
-@media all and (min-width:320px) and (max-width:768px){
+@media all and (min-width:250px) and (max-width:768px){
     nav{
         height:auto;
         display: block;
